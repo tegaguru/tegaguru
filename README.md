@@ -5,7 +5,7 @@
 - 🔭 I’m currently freelancing as a Front-End Developer, but I'm very much open to permanent roles.
 - 🌱 I’m currently dabbling into web animations using libraries like [GSAP](https://greensock.com/)
 - 📫 How to reach me: shoot me a mail > tegaguru@gmail.com
-- ⚡ Fun fact: Did you know.......
+- ⚡ Fun fact: Did you know.......Nothing
 
 ## 🌐Socials
 
